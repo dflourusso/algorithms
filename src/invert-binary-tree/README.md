@@ -13,18 +13,6 @@ tree =         1
      8   9
 
 ```
-```bash
-# On the test console will be represented on that format
-1
-  2
-    4
-      8
-      9
-    5
-  3
-    6
-    7
-```
 
 ## The chalenge
 
@@ -42,24 +30,11 @@ tree =         1
 
 ```
 
-```bash
-# On the test console, the response will be represented on that format
-1
-  3
-    7
-    6
-  2
-    5
-    4
-      9
-      8
-```
-
 
 ## Rules
 
 - You are not alowed to change the `BinaryTree.js` and `spec.js` files.
 - Just change the `index.js` file with your implementation
-- To test if everything is working, run `yarn test src/linked-list/spec.js`
+- To test if everything is working, run `yarn test src/invert-binary-tree/spec.js`
 
 Good look
