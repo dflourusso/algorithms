@@ -8,6 +8,7 @@ We have the `LinkedList` class where each list item is referenced to the next it
 ## The chalenge
 
 The chalange is to implement a function inside the `index.js` file, that reverses the list.
+The param received on the `reverseLinkedList` function is the first element of the list.
 The expected output is `k -> j -> i -> h -> g -> f -> e -> d -> c -> b -> a -> None`
 
 ## Rules
